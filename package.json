@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neondoll/babel.git"
+    "url": "git+https://github.com/neondoll/ajs-homeworks-workspace-babel.git"
   },
   "author": "neondoll",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neondoll/babel/issues"
+    "url": "https://github.com/neondoll/ajs-homeworks-workspace-babel/issues"
   },
-  "homepage": "https://github.com/neondoll/babel#readme",
+  "homepage": "https://github.com/neondoll/ajs-homeworks-workspace-babel#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.24.0",
